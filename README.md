@@ -32,4 +32,4 @@ Last but not least - in general the parallel techniques for handling massive amo
 
 Slovak version
 --------------
-Note for Czechoslovakian people - there is also PDF version available in [Slovak language](vizualizacia_dat_z_konfokalneho_mikroskopu-slavomir-hudak.pdf).
+Note for Czechoslovakian people - there is also PDF version available in [Slovak language](https://github.com/besnik/parallel-volume-rendering/blob/master/vizualizacia_dat_z_konfokalneho_mikroskopu-slavomir-hudak.pdf).
