@@ -22,6 +22,17 @@ Sources
 -------
 Source codes can be found in sources directory. Many comments and method names are unfortunately in slovak languages. I will highlight important parts, algorithms and optimalizations in wiki. After those years when looking back in the sources it looks horrible :-) No separation of concerns, no unit tests, many things mixed up. But with that time frame, knowledge, complications with cluster I'm still quite proud what was achieved.
 
+Documentation
+-------------
+Presentations and documentation for some algorithms are located in [download](/besnik/parallel-volume-rendering/downloads) section. Most of them are in Slovak language. I'll try to translate them into the English when I find some time.
+
+Images
+------
+For time being please see [Images](/besnik/parallel-volume-rendering/tree/master/images) directory. 
+![Comparison of various threshold values by bezier curve editor in the client](/besnik/parallel-volume-rendering/blob/master/images/comparison-of-bezier-threshold-biological-data.jpg)
+
+![Example of syntetic data cube-in-cube. High versus Low threshold value.](/besnik/parallel-volume-rendering/blob/master/images/no-threshold-vs-threshold.jpg)
+
 Thesis
 ------
 During the work we have checked many science articles; many from the world leaders in the field of volume visualization. Some articles about especially complex optimalizations contained formulas with a mistake in it. In the sample source codes you can find correct versions of the algorithms implemented in C++ language.
@@ -32,4 +43,4 @@ Last but not least - in general the parallel techniques for handling massive amo
 
 Slovak version
 --------------
-Note for Czechoslovakian people - there is also PDF version available in [Slovak language](https://github.com/besnik/parallel-volume-rendering/blob/master/vizualizacia_dat_z_konfokalneho_mikroskopu-slavomir-hudak.pdf).
+Note for Czechoslovakian people - there is also PDF version available in [Slovak language](/besnik/parallel-volume-rendering/vizualizacia_dat_z_konfokalneho_mikroskopu-hudak_slavomir.pdf).
