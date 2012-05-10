@@ -3,7 +3,9 @@ Parallel Volume Rendering
 
 In this work we explore and discuss visualization of large volume data on parallel architectures. In the paper we focus a bit on the data from confocal microscopy. Note that described techniques, algorithms and optimalizations are not coupled to the confocal data. All approaches can be applied on any volumetric data - does not matter if it is from microscope, sonar, geological data, medical data like MRI or CT; or for example syntetic physic data.
 
-#### Read [full document here](parallel-volume-rendering/wiki).
+#### Read [document here](parallel-volume-rendering/wiki).
+
+Note: the document is still being translated from Slovak version that you can download in the downloads section or at the bottom of this file.
 
 Abstract
 --------
@@ -20,11 +22,14 @@ Keywords: Volume ray-casting, parallel rendering, PC clusters, binary swap algor
 
 Sources
 -------
-Source codes can be found in sources directory. Many comments and method names are unfortunately in slovak languages. I will highlight important parts, algorithms and optimalizations in wiki. After those years when looking back in the sources it looks horrible :-) No separation of concerns, no unit tests, many things mixed up. But with that time frame, knowledge, complications with cluster I'm still quite proud what was achieved.
+Source codes can be found in sources directory. Many comments and method names are unfortunately in slovak languages. I will try to highlight important parts, algorithms and optimalizations in the wiki. After those years when looking back in the sources it looks horrible :-) No separation of concerns, no unit tests, many things mixed up. But with that time frame, knowledge (nobody knew parallel programming and I had to study everything alone), complications with cluster and remote development I'm still quite proud what was achieved. When I was discussing the work with people in laser centre, they said I was kind of pioneer in this field of parallel rendering of volume data in Slovakia :)
 
 Documentation
 -------------
 Presentations and documentation for some algorithms are located in [download](/besnik/parallel-volume-rendering/downloads) section. Most of them are in Slovak language. I'll try to translate them into the English when I find some time.
+
+ * [Visualization of Data from Confocal Microscopy](/downloads/besnik/parallel-volume-rendering/pvr-presentation-18.1.2006.ppt)
+ * [MPI - Message Passing Interface](/downloads/besnik/parallel-volume-rendering/MPI-Message_Passing_Interface_en.ppt)
 
 Images
 ------
