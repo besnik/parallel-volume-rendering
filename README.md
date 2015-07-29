@@ -33,7 +33,7 @@ Presentations and documentation for some algorithms are located in [download](/b
 
 Images
 ------
-Please see [Images](/besnik/parallel-volume-rendering/tree/master/images) directory. Also some images can be found in the thesis, pdf or powerpoint presentations in [download](/besnik/parallel-volume-rendering/downloads) section.
+Please see [Images](https://github.com/besnik/parallel-volume-rendering/tree/master/images) directory. Also some images can be found in the thesis, pdf or powerpoint presentations in [download](/besnik/parallel-volume-rendering/downloads) section.
 
 ![Comparison of various threshold values by bezier curve editor in the client](https://raw.githubusercontent.com/besnik/parallel-volume-rendering/master/images/comparison-of-bezier-threshold-biological-data.jpg)
 
