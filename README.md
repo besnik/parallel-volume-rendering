@@ -3,7 +3,7 @@ Parallel Volume Rendering
 
 In this work we explore and discuss visualization of large volume data on parallel architectures. In the paper we focus a bit on the data from confocal microscopy. Note that described techniques, algorithms and optimalizations are not coupled to the confocal data. All approaches can be applied on any volumetric data - does not matter if it is from microscope, sonar, geological data, medical data like MRI or CT; or for example syntetic physic data.
 
-#### Read [document here](/besnik/parallel-volume-rendering/wiki).
+#### Read [document here](https://github.com/besnik/parallel-volume-rendering/wiki).
 
 Note: the document is still being translated from Slovak version that you can download in the downloads section or at the bottom of this file.
 
