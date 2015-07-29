@@ -35,9 +35,9 @@ Images
 ------
 Please see [Images](/besnik/parallel-volume-rendering/tree/master/images) directory. Also some images can be found in the thesis, pdf or powerpoint presentations in [download](/besnik/parallel-volume-rendering/downloads) section.
 
-![Comparison of various threshold values by bezier curve editor in the client](/besnik/parallel-volume-rendering/blob/master/images/comparison-of-bezier-threshold-biological-data.jpg?raw=true)
+![Comparison of various threshold values by bezier curve editor in the client](https://raw.githubusercontent.com/besnik/parallel-volume-rendering/master/images/comparison-of-bezier-threshold-biological-data.jpg)
 
-![Example of syntetic data cube-in-cube. High versus Low threshold value.](/besnik/parallel-volume-rendering/blob/master/images/no-threshold-vs-threshold.jpg?raw=true)
+![Example of syntetic data cube-in-cube. High versus Low threshold value.](https://raw.githubusercontent.com/besnik/parallel-volume-rendering/master/images/no-threshold-vs-threshold.jpg)
 
 Thesis
 ------
